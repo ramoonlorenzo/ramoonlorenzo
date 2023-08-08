@@ -31,6 +31,6 @@
 
 # 📊  GitHub Stats
 ![Ramon Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramoonlorenzo&show_icons=true&theme=dracula&hide_border=false)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramoonlorenzo&theme=dracula&hide_border=false)](https://git.io/streak-stats)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramoonlorenzo&theme=dracula&hide_border=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramoonlorenzo&theme=dracula&hide_border=false)](https://git.io/streak-stats)
