@@ -9,7 +9,10 @@
 
 ### Currently learning
 
+![Badge - Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Badge - React](https://img.shields.io/badge/React-181717.svg?style=for-the-badge&logo=react)
+![Badge - Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717.svg?style=for-the-badge&logo=tailwindcss)
+![Badge - TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### My skills
 
@@ -34,3 +37,10 @@
 
 [![Badge - Instagram](https://img.shields.io/badge/Instagram-e4405f.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramoonlorenzo)
 [![Badge - LinkedIn](https://img.shields.io/badge/LinkedIn-007ec6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo)
+
+# 📊 GitHub Stats
+
+![Ramon Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramoonlorenzo&show_icons=true&theme=dracula&hide_border=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramoonlorenzo&theme=dracula&hide_border=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramoonlorenzo&theme=dracula&hide_border=false)](https://git.io/streak-stats)
