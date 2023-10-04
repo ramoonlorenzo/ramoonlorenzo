@@ -26,6 +26,7 @@
 ### Familiar with
 
 ![Badge - Bootstrap](https://img.shields.io/badge/Bootstrap-8812fc.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Badge - Bulma](https://img.shields.io/badge/Bulma-181717.svg?style=for-the-badge&logo=bulma)
 
 ### My tools
 
