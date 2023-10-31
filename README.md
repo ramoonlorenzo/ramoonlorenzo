@@ -4,17 +4,17 @@
 
 ### Hi there 👋🏻
 
-I'm a dedicated developer who loves to learn and share knowledge. My journey began as an undergraduate student, where I explored the fields of Interior Design and Architecture and Urbanism. I've also had the unique experience of working as a Tattoo Artist, improving my artistic skills and creativity.
+I'm a dedicated **developer** who loves to learn and share knowledge. My journey began as an undergraduate student, where I explored the fields of **Interior Design** and **Architecture and Urbanism**. I've also had the unique experience of working as a **Tattoo Artist**, improving my artistic skills and creativity.
 
-I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I've been working on my career transition to the technology field. My primary goal is to become a Full Stack Developer.
+I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I've been working on my **career transition** to the technology field. My primary goal is to become a **Full Stack Developer**.
 
 In my free time, I enjoy reading, drawing, gaming, watching anime, movies, TV Series/Shows, and exploring new places.
 
 ### Olá pessoal 👋🏻
 
-Sou um desenvolvedor dedicado que adora aprender e compartilhar conhecimento. Minha jornada começou como estudante universitário, onde explorei as áreas de Design de Interiores e Arquitetura e Urbanismo. Também já tive a experiência única de trabalhar como Tatuador, aprimorando minhas habilidades artísticas e criatividade.
+Sou um **desenvolvedor** dedicado que adora aprender e compartilhar conhecimento. Minha jornada começou como estudante universitário, onde explorei as áreas de **Design de Interiores** e **Arquitetura e Urbanismo**. Também já tive a experiência única de trabalhar como **Tatuador**, aprimorando minhas habilidades artísticas e criatividade.
 
-Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional. Atualmente, tenho trabalhado na transição da minha carreira para a área de tecnologia. Meu objetivo principal é me tornar um Desenvolvedor Full Stack.
+Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional. Atualmente, tenho trabalhado na minha **transição de carreira** para a área de tecnologia. Meu objetivo principal é me tornar um **Desenvolvedor Full Stack**.
 
 No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, séries, e explorar novos lugares.
 
