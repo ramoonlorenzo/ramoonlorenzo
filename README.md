@@ -53,6 +53,11 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 
 ### Want to Learn
 
+![Babel](https://img.shields.io/badge/Babel-181717.svg?style=for-the-badge&logo=babel)
+![gulp](https://img.shields.io/badge/Gulp-181717.svg?style=for-the-badge&logo=gulp)
+![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest)
+![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery)
+![Sass](https://img.shields.io/badge/Sass-181717.svg?style=for-the-badge&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717.svg?style=for-the-badge&logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078d4.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-181717.svg?style=for-the-badge&logo=yarn)
