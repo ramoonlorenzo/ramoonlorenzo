@@ -60,6 +60,7 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 ![Sass](https://img.shields.io/badge/Sass-181717.svg?style=for-the-badge&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717.svg?style=for-the-badge&logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0078d4.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-181717.svg?style=for-the-badge&logo=yarn)
 
 </div>
