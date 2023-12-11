@@ -46,6 +46,7 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 ![Express.js](https://img.shields.io/badge/Express.js-181717.svg?style=for-the-badge&logo=express)
 ![Figma](https://img.shields.io/badge/Figma-181717.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181717.svg?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-a03333.svg?style=for-the-badge&logo=mongoose)
 ![Next.js](https://img.shields.io/badge/Next.js-181717.svg?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-181717.svg?style=for-the-badge&logo=npm)
