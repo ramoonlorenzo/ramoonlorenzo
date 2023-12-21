@@ -58,6 +58,8 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 ![gulp](https://img.shields.io/badge/Gulp-181717.svg?style=for-the-badge&logo=gulp)
 ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest)
 ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery)
+![MySQL](https://img.shields.io/badge/MySQL-4a7da4.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f5e8d.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-181717.svg?style=for-the-badge&logo=sass)
 ![styled-components](https://img.shields.io/badge/styled--components-181717.svg?style=for-the-badge&logo=styledcomponents)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717.svg?style=for-the-badge&logo=tailwindcss)
