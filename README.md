@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to my GitHub!
+# 🧑🏻‍💻 Welcome to my GitHub!
 
 ### Hi there 👋🏻
 
@@ -22,7 +22,7 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-e4405f.svg?logo=instagram&logoColor=white)](https://instagram.com/ramoonlorenzo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo) [![X](https://img.shields.io/badge/Follow_@ramoonlorenzo-171818.svg?logo=x)](https://twitter.com/ramoonlorenzo)
 
-# 🛠️ Technologies
+# 🚀 Technologies
 
 ### My Skills
 
@@ -32,7 +32,7 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 
 ![Bulma](https://img.shields.io/badge/Bulma-181717.svg?style=for-the-badge&logo=bulma) ![Express.js](https://img.shields.io/badge/Express.js-181717.svg?style=for-the-badge&logo=express) ![Figma](https://img.shields.io/badge/Figma-181717.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-181717.svg?style=for-the-badge&logo=mongodb) ![Mongoose](https://img.shields.io/badge/Mongoose-a03333.svg?style=for-the-badge&logo=mongoose) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-181717.svg?style=for-the-badge&logo=npm) ![React](https://img.shields.io/badge/React-181717.svg?style=for-the-badge&logo=react)
 
-### Want to Learn
+### Want to learn
 
 ![Babel](https://img.shields.io/badge/Babel-181717.svg?style=for-the-badge&logo=babel) ![Next.js](https://img.shields.io/badge/Next.js-181717.svg?style=for-the-badge&logo=nextdotjs) ![gulp](https://img.shields.io/badge/Gulp-181717.svg?style=for-the-badge&logo=gulp) ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest) ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery) ![MySQL](https://img.shields.io/badge/MySQL-4a7da4.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f5e8d.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-181717.svg?style=for-the-badge&logo=python) ![Sass](https://img.shields.io/badge/Sass-181717.svg?style=for-the-badge&logo=sass) ![styled-components](https://img.shields.io/badge/styled--components-181717.svg?style=for-the-badge&logo=styledcomponents) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717.svg?style=for-the-badge&logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/TypeScript-0078d4.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-181717.svg?style=for-the-badge&logo=yarn)
 
