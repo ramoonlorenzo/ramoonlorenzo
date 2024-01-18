@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧑🏻‍💻 Welcome to my GitHub!
+# Welcome to my GitHub!
 
-### Hi there 👋🏻
+### 🧑🏻‍💻 My Story
 
 I'm a dedicated **developer** who loves to learn and share knowledge. My journey began as an undergraduate student, where I explored the fields of **Interior Design** and **Architecture and Urbanism**. I've also had the unique experience of working as a **Tattoo Artist**, improving my artistic skills and creativity.
 
@@ -10,7 +10,7 @@ I'm always looking for new challenges and opportunities for personal and profess
 
 In my free time, I enjoy reading, drawing, gaming, watching anime, movies, TV Series/Shows, and exploring new places.
 
-### Olá pessoal 👋🏻
+### 🧑🏻‍💻 Minha história
 
 Sou um **desenvolvedor** dedicado que adora aprender e compartilhar conhecimento. Minha jornada começou como estudante universitário, onde explorei as áreas de **Design de Interiores** e **Arquitetura e Urbanismo**. Também já tive a experiência única de trabalhar como **Tatuador**, aprimorando minhas habilidades artísticas e criatividade.
 
@@ -18,9 +18,9 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e
 
 No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, séries, e explorar novos lugares.
 
-## 📫 How to reach me:
+## 📫 Contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-e4405f.svg?logo=instagram&logoColor=white)](https://instagram.com/ramoonlorenzo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo) [![X](https://img.shields.io/badge/Follow_@ramoonlorenzo-171818.svg?logo=x)](https://twitter.com/ramoonlorenzo)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo)
 
 # 🚀 Technologies
 
