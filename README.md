@@ -18,7 +18,7 @@ Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e
 
 No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, séries, e explorar novos lugares.
 
-## 📫 Contacts
+## 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078d4.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo)
 
