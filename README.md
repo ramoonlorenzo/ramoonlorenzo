@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub!
 
-### 🧑🏻‍💻 My Story
+### [ EN ] 🧑🏻‍💻 My Story
 
 <details>
 <summary>👋 Hi there</summary>
@@ -15,7 +15,7 @@ In my free time, I enjoy reading, drawing, gaming, watching anime, movies, TV Se
 
 </details>
 
-### 🧑🏻‍💻 Minha história
+### [ PT ] 🧑🏻‍💻 Minha história
 
 <details>
 <summary>👋 Olá pessoal</summary>
