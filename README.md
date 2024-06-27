@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub!
 
-### [ EN-US ] 🧑🏻‍💻 My Story
+### [ EN-US ] 🧑🏻‍💻 My story
 
 <details>
 <summary>👋 Hi there</summary>
@@ -30,7 +30,7 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 
 ## 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-eb493b.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo)
+[![Gmail](https://img.shields.io/badge/Gmail-eb493b.svg?logo=gmail&logoColor=white&link=mailto:ramoonlorenzo@gmail.com)](mailto:ramoonlorenzo@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramoonlorenzo) [![X](https://img.shields.io/badge/@ramoonlorenzo-232323.svg?logo=x)](https://twitter.com/ramoonlorenzo)
 
 # 🚀 Technologies
 
