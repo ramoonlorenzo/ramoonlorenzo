@@ -7,9 +7,9 @@
 <details>
 <summary>👋 Hi there</summary>
 
-I'm a dedicated **developer** who loves to learn and share knowledge. My journey began as an undergraduate student, where I explored the fields of **Interior Design** and **Architecture and Urbanism**. I've also had the unique experience of working as a **Tattoo Artist**, improving my artistic skills and creativity.
+I'm a dedicated **developer** who loves to learn and share knowledge. I studied Interior Design and Architecture & Urbanism for a total of three years. During this time, I explored my artistic and creative skills while working as a Tattoo Artist.
 
-I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I've been working on my **career transition** to the technology field. My primary goal is to become a **Full Stack Developer**.
+I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I've been working on my **career transition** to the technology field. My main goal is to become a **Full Stack Developer**.
 
 In my free time, I enjoy reading, drawing, gaming, watching anime, movies, TV Series/Shows, and exploring new places.
 
@@ -19,8 +19,8 @@ In my free time, I enjoy reading, drawing, gaming, watching anime, movies, TV Se
 
 <details>
 <summary>👋 Olá pessoal</summary>
-  
-Sou um **desenvolvedor** dedicado que adora aprender e compartilhar conhecimento. Minha jornada começou como estudante universitário, onde explorei as áreas de **Design de Interiores** e **Arquitetura e Urbanismo**. Também já tive a experiência única de trabalhar como **Tatuador**, aprimorando minhas habilidades artísticas e criatividade.
+
+Sou um **desenvolvedor** dedicado que adora aprender e compartilhar conhecimento. Cursei as áreas de Design de Interiores e Arquitetura e Urbanismo, totalizando 3 anos. Ao longo desse período, explorei minhas habilidades artísticas e criativas, enquanto trabalhava como Tatuador de forma autônoma.
 
 Estou sempre em busca de novos desafios e oportunidades de crescimento pessoal e profissional. Atualmente, tenho trabalhado na minha **transição de carreira** para a área de tecnologia. Meu objetivo principal é me tornar um **Desenvolvedor Full Stack**.
 
@@ -40,10 +40,10 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir animes, filmes, sér
 
 ### Under Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-087ea4.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-316e9e.svg?style=for-the-badge&logo=python&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-087ea4.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Want to learn
 
-![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-316e9e.svg?style=for-the-badge&logo=python&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-d977b3.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-d977b3.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 </div>
