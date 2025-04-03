@@ -34,11 +34,11 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir a animes, filmes e s
 
 # 🚀 Technologies
 
-### My Skills
+### My skills
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712fb.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0170ba.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) ![Git](https://img.shields.io/badge/Git-f54d27.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-e44d26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F5da55.svg?style=for-the-badge&logo=javascript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-07ab4f.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-87cf30.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### In Progress
+### In progress
 
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-316e9e.svg?style=for-the-badge&logo=python&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-087ea4.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
