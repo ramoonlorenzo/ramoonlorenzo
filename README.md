@@ -9,7 +9,7 @@
 
 I'm a dedicated **developer** who loves to learn and share knowledge. I studied Interior Design and Architecture & Urbanism for a total of three years. During this time, I explored my artistic and creative skills while working as a self-employed tattoo artist.
 
-I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I am in a **career transition** to the technology field. My main goal is to become a **Full Stack Developer**. Recently, I started a **Bachelor's degree in Systems Analysis and Development** to improve my technical and practical skills.
+I'm always looking for new challenges and opportunities for personal and professional growth. Currently, I'm in a **career transition** to the technology field. My main goal is to become a **Full Stack Developer**. Recently, I started a **Bachelor's degree in Systems Analysis and Development** to improve my technical and practical skills.
 
 In my free time, I enjoy reading, drawing, gaming, watching anime, movies, and series, as well as exploring new places.
 
@@ -40,10 +40,10 @@ No meu tempo livre, gosto de ler, desenhar, jogar, assistir a animes, filmes e s
 
 ### In progress
 
-![MySQL](https://img.shields.io/badge/MySQL-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-316e9e.svg?style=for-the-badge&logo=python&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-087ea4.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3e6e93.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-316e9e.svg?style=for-the-badge&logo=python&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-087ea4.svg?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Want to learn
 
-![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-d977b3.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-99425b.svg?style=for-the-badge&logo=jest&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-cf649a.svg?style=for-the-badge&logo=sass&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-d977b3.svg?style=for-the-badge&logo=styledcomponents&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
